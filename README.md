@@ -1,11 +1,12 @@
 <h1 align="center">
-    <img src="https://firebasestorage.googleapis.com/v0/b/owl-app-dfc89.appspot.com/o/img%2Fowl_icon.png?alt=media&token=64b95829-e16a-45fd-948b-1b19267e3c3b" alt="Image" height="42" width="42"  border-radius: 50%>
+    <img src="https://firebasestorage.googleapis.com/v0/b/owl-app-dfc89.appspot.com/o/img%2FGIF-210905_142237.gif?alt=media&token=2221d9d7-9655-48df-ac6d-d78268cb628d">
 </h1>
 
 # Indice
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- .[Screenshots](#-screenshots)
 
 ## 🔖&nbsp; Sobre
 
@@ -17,9 +18,17 @@ O projeto **Owl** é um aplicativo que foi criado dentro do curso **Bootcamp San
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-- [Room](https://reactjs.org)
-- [Android](https://redux.org)
-- [Kotlin](https://github.com/axios/axios)
+- [Room](https://developer.android.com/training/data-storage/room?hl=pt-br)
+- [Android](https://www.android.com/intl/pt-BR_br/)
+- [Kotlin](https://kotlinlang.org/)
+
+---
+
+## Screenshots
+
+<h1 align="center">
+    <img src="https://firebasestorage.googleapis.com/v0/b/owl-app-dfc89.appspot.com/o/img%2FInShot_20210905_000921227.jpg?alt=media&token=ef6ba1c5-f6f1-4202-a5d0-6150028b7492">
+</h1>
 
 ---
 
