@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="https://firebasestorage.googleapis.com/v0/b/owl-app-dfc89.appspot.com/o/img%2FGIF-210905_142237.gif?alt=media&token=2221d9d7-9655-48df-ac6d-d78268cb628d">
+    <img src="GIF-210905_142237.gif">
 </h3>
 
 # Indice
