@@ -1,14 +1,6 @@
 <h1 align="center">
-    <img src="https://ik.imagekit.io/kudysak8uv/logo2_wkzFleEF6.png">
+    <img src="https://firebasestorage.googleapis.com/v0/b/owl-app-dfc89.appspot.com/o/img%2Fowl_icon.png?alt=media&token=64b95829-e16a-45fd-948b-1b19267e3c3b">
 </h1>
-
-<h1>
-    <img src="public/apresentacao.gif">
-</h1>
-
-<h3 align="center">
-    <a href="https://rocketmusics.herokuapp.com/">Acessar a demonstração</a>
-<h3 >
 
 # Indice
 
